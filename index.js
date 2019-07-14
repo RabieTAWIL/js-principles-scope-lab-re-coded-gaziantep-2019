@@ -4,6 +4,8 @@ var costumerName;
 
 costumerName = 'bob';
 
+return costumerName;
+
 Function upperCaseCutomerName(){
   costumerName = costumerName.toUppercase();
 }
