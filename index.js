@@ -1,6 +1,6 @@
 // Write your solution in this file!
 
-var costumerName;
+var costumerName = 'bob';
 
 return costumerName;
 
